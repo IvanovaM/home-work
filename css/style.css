@@ -1,18 +1,26 @@
+html {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: black;
+}
+
 body {
+	height: 99%;
 	margin: 0;
 	padding: 0;
 	background-color: #eeeeee;
+	border-radius: 0px 0px 5px 5px;
 }
 
 .fon {
 	background-color: white;
-	margin: auto;
+	margin-left: 33%;
 	margin-top: 3px;
 	padding-left: 40px;
 	padding-right: 40px;
-	position: relative;
 	width: 27%;
-	height: 610px;
+	height: 95%;
 }
 
 h3 {
@@ -23,7 +31,7 @@ img {
 	width: 100px;
 	height: 110px;
 	position: relative;
-	margin-left: 35%;
+	margin-left: 32%;
 }
 
 .student,
